@@ -33,9 +33,9 @@ Cleaned the dataset by removing duplicate rows, handling undocumented category v
 
 Credit limit was right skewed with a median of 140,000 and mean of 167,484, a small number of high limit customers pulled the average up
 
-High school educated customers had the highest default rate at 25.2%; postgraduates the lowest at 19.2%
+High school educated customers had the highest default rate: at 25.2%; postgraduates the lowest at 19.2%
 
-Males defaulted more than females — 24.2% vs 20.8%
+Males defaulted more than females: 24.2% vs 20.8%
 
 Recent payment delay (PAY_0) had the strongest correlation with default at 0.325, the single most predictive variable in the dataset
 
